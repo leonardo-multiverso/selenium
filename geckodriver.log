@@ -1,0 +1,184 @@
+1636670301552	geckodriver	INFO	Listening on 127.0.0.1:39187
+1636670301555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44967" "-no-remote" "-profile" "/tmp/rust_mozprofileyyI51l"
+1636670303241	Marionette	INFO	Listening on port 41181
+1636670303261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636670317473	Marionette	INFO	Stopped listening on port 41181
+1636670323776	geckodriver	INFO	Listening on 127.0.0.1:40279
+1636670323779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36169" "-no-remote" "-profile" "/tmp/rust_mozprofile1J6yRY"
+1636670325336	Marionette	INFO	Listening on port 33025
+1636670325390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636670327431	Marionette	INFO	Stopped listening on port 33025
+1636670391270	geckodriver	INFO	Listening on 127.0.0.1:34567
+1636670391274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52951" "-no-remote" "-profile" "/tmp/rust_mozprofilepGGZZg"
+1636670392794	Marionette	INFO	Listening on port 44497
+1636670392879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636670396779	Marionette	INFO	Stopped listening on port 44497
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1636670422367	geckodriver	INFO	Listening on 127.0.0.1:51061
+1636670422371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33419" "-no-remote" "-profile" "/tmp/rust_mozprofileXXEI2N"
+1636670424008	Marionette	INFO	Listening on port 41677
+1636670424076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636670426121	Marionette	INFO	Stopped listening on port 41677
+1636670432034	geckodriver	INFO	Listening on 127.0.0.1:59923
+1636670432038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56361" "-no-remote" "-profile" "/tmp/rust_mozprofileDFTAAP"
+1636670433616	Marionette	INFO	Listening on port 46675
+1636670433648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1636670447707	Marionette	INFO	Stopped listening on port 46675
+1636670518131	geckodriver	INFO	Listening on 127.0.0.1:47793
+1636670518135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57987" "-no-remote" "-profile" "/tmp/rust_mozprofilew7uubi"
+1636670519849	Marionette	INFO	Listening on port 36641
+1636670519945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636670531063	Marionette	INFO	Stopped listening on port 36641
+1636670855233	geckodriver	INFO	Listening on 127.0.0.1:44111
+1636670855237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60139" "-no-remote" "-profile" "/tmp/rust_mozprofile399Bhw"
+1636670856764	Marionette	INFO	Listening on port 37129
+1636670856844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636670881649	geckodriver	INFO	Listening on 127.0.0.1:34559
+1636670881653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44553" "-no-remote" "-profile" "/tmp/rust_mozprofileJXSWz8"
+1636670881676	Marionette	INFO	Stopped listening on port 37129
+1636670883211	Marionette	INFO	Listening on port 38287
+1636670883275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636670978032	Marionette	INFO	Stopped listening on port 38287
+1636670983763	geckodriver	INFO	Listening on 127.0.0.1:39013
+1636670983767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47073" "-no-remote" "-profile" "/tmp/rust_mozprofileIMal4a"
+1636670985293	Marionette	INFO	Listening on port 38461
+1636670985373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636671008918	geckodriver	INFO	Listening on 127.0.0.1:34031
+1636671008921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57997" "-no-remote" "-profile" "/tmp/rust_mozprofile8ng0Sm"
+1636671010483	Marionette	INFO	Listening on port 35615
+1636671010528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636671014863	Marionette	INFO	Stopped listening on port 38461
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636671069192	Marionette	INFO	Stopped listening on port 35615
+1636671072205	geckodriver	INFO	Listening on 127.0.0.1:39363
+1636671072209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56231" "-no-remote" "-profile" "/tmp/rust_mozprofileo3H6EJ"
+1636671073678	Marionette	INFO	Listening on port 38325
+1636671073718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636671091590	Marionette	INFO	Stopped listening on port 38325
+1636671190002	geckodriver	INFO	Listening on 127.0.0.1:38251
+1636671190007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46333" "-no-remote" "-profile" "/tmp/rust_mozprofileqJhYRP"
+1636671191581	Marionette	INFO	Listening on port 42593
+1636671191614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636671214749	Marionette	INFO	Stopped listening on port 42593
+1636671220133	geckodriver	INFO	Listening on 127.0.0.1:43907
+1636671220136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33193" "-no-remote" "-profile" "/tmp/rust_mozprofiletfY7LB"
+1636671221663	Marionette	INFO	Listening on port 43015
+1636671221745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636671233514	Marionette	INFO	Stopped listening on port 43015
+1636671235951	geckodriver	INFO	Listening on 127.0.0.1:32955
+1636671235955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38301" "-no-remote" "-profile" "/tmp/rust_mozprofile7le0K0"
+1636671237503	Marionette	INFO	Listening on port 46717
+1636671237559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636671257205	Marionette	INFO	Stopped listening on port 46717
+1636671263939	geckodriver	INFO	Listening on 127.0.0.1:48191
+1636671263943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32879" "-no-remote" "-profile" "/tmp/rust_mozprofile4gnUAN"
+1636671265441	Marionette	INFO	Listening on port 42261
+1636671265447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636671277957	Marionette	INFO	Stopped listening on port 42261
+1636671395486	geckodriver	INFO	Listening on 127.0.0.1:60901
+1636671395489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59113" "-no-remote" "-profile" "/tmp/rust_mozprofilekRpZmC"
+1636671397034	Marionette	INFO	Listening on port 36873
+1636671397096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636671413854	Marionette	INFO	Stopped listening on port 36873
+1636671417905	geckodriver	INFO	Listening on 127.0.0.1:43007
+1636671417909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43767" "-no-remote" "-profile" "/tmp/rust_mozprofileloiVmg"
+1636671419381	Marionette	INFO	Listening on port 43365
+1636671419414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636671555313	geckodriver	INFO	Listening on 127.0.0.1:49461
+1636671555317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41969" "-no-remote" "-profile" "/tmp/rust_mozprofileTQgPL9"
+1636671556908	Marionette	INFO	Listening on port 46251
+1636671556926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://http2.mlstatic.com/frontend-assets/search-nordic/search.desktop.43036b6a.js, line 2: Error: Request aborted
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1636671579716	Marionette	INFO	Stopped listening on port 46251
+1636671594699	geckodriver	INFO	Listening on 127.0.0.1:46089
+1636671594703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39329" "-no-remote" "-profile" "/tmp/rust_mozprofilehBrEOt"
+1636671596303	Marionette	INFO	Listening on port 41361
+1636671596308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 24: NS_ERROR_FAILURE: 
+1636671695644	geckodriver	INFO	Listening on 127.0.0.1:47043
+1636671695648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52875" "-no-remote" "-profile" "/tmp/rust_mozprofileaBHa2g"
+1636671697149	Marionette	INFO	Listening on port 42705
+1636671697155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 24: NS_ERROR_FAILURE: 
+1636671896064	geckodriver	INFO	Listening on 127.0.0.1:39955
+1636671896068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58391" "-no-remote" "-profile" "/tmp/rust_mozprofileZgAWHC"
+1636671897539	Marionette	INFO	Listening on port 33673
+1636671897574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1636671914689	geckodriver	INFO	Listening on 127.0.0.1:47391
+1636671914692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36491" "-no-remote" "-profile" "/tmp/rust_mozprofileGbEXjl"
+1636671915675	Marionette	INFO	Stopped listening on port 33673
+1636671916285	Marionette	INFO	Listening on port 33713
+1636671916306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C208PQQAIIHA6IQNB1JG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://http2.mlstatic.com/frontend-assets/vpp-frontend/pdp.desktop.c61478f2.js, line 2: Error: Request aborted
+1636672032024	geckodriver	INFO	Listening on 127.0.0.1:38601
+1636672032028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47295" "-no-remote" "-profile" "/tmp/rust_mozprofileFfJdTz"
+1636672033658	Marionette	INFO	Listening on port 35773
+1636672033734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636672338579	Marionette	INFO	Stopped listening on port 35773

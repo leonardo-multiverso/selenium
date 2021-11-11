@@ -1,0 +1,69 @@
+1636668544816	geckodriver	INFO	Listening on 127.0.0.1:42617
+1636668544823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58893" "-no-remote" "-profile" "/tmp/rust_mozprofilebJAZuP"
+1636668546350	Marionette	INFO	Listening on port 39573
+1636668546442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1636668550601	Marionette	INFO	Stopped listening on port 39573
+1636668625526	geckodriver	INFO	Listening on 127.0.0.1:45805
+1636668625530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43359" "-no-remote" "-profile" "/tmp/rust_mozprofiletmirYF"
+1636668627122	Marionette	INFO	Listening on port 43739
+1636668627137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.google.com/, line 21: Script terminated by timeout at:
+S@https://www.google.com/:21:327
+l@https://www.google.com/:20:1168
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636668644706	Marionette	INFO	Stopped listening on port 43739
+1636668893476	geckodriver	INFO	Listening on 127.0.0.1:34235
+1636668893480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50471" "-no-remote" "-profile" "/tmp/rust_mozprofilewmtcw8"
+1636668894952	Marionette	INFO	Listening on port 41389
+1636668894984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1636668905156	Marionette	INFO	Stopped listening on port 41389
+1636668908842	geckodriver	INFO	Listening on 127.0.0.1:46789
+1636668908846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45161" "-no-remote" "-profile" "/tmp/rust_mozprofilexreECI"
+1636668910394	Marionette	INFO	Listening on port 39951
+1636668910452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636668921731	Marionette	INFO	Stopped listening on port 39951
+1636668975866	geckodriver	INFO	Listening on 127.0.0.1:33169
+1636668975870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39771" "-no-remote" "-profile" "/tmp/rust_mozprofile8FSkTf"
+1636668977401	Marionette	INFO	Listening on port 40635
+1636668977476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636668977479	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"127.0.0.1:9050","httpProxy":"127.0.0.1:9050","sslProxy":"127.0.0.1:9050"}
+1636668992889	Marionette	INFO	Stopped listening on port 40635
+1636669028389	geckodriver	INFO	Listening on 127.0.0.1:43205
+1636669028393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49605" "-no-remote" "-profile" "/tmp/rust_mozprofile4VSKxw"
+1636669029890	Marionette	INFO	Listening on port 34099
+1636669029898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636669029900	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"127.0.0.1:9050","httpProxy":"127.0.0.1:9050","sslProxy":"127.0.0.1:9050"}
+1636669036611	Marionette	INFO	Stopped listening on port 34099
+1636669049921	geckodriver	INFO	Listening on 127.0.0.1:51787
+1636669067482	geckodriver	INFO	Listening on 127.0.0.1:39985
+1636669241699	geckodriver	INFO	Listening on 127.0.0.1:47111
+1636669241706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44727" "-no-remote" "-profile" "/tmp/rust_mozprofileiuV8oe"
+1636669243124	Marionette	INFO	Listening on port 43885
+1636669243214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.whatsmyip.org/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://maps.googleapis.com/maps-api-v3/api/js/46/12a/common.js, line 94: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636669307823	Marionette	INFO	Stopped listening on port 43885
