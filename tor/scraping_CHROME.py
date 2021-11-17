@@ -8,4 +8,4 @@ options.add_argument('--proxy-server=socks5://' + proxy_http)
 driver = webdriver.Chrome('/opt/chromedriver', options=options)
 
 #driver.get("https://www.whatsmyip.org/")
-driver.get("https://www.multiversobi.com.br/")
+driver.get("http://pwndb2am4tzkvold.onion")

@@ -1,0 +1,5 @@
+1636750429364	geckodriver	INFO	Listening on 127.0.0.1:57047
+1636750429369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39787" "-no-remote" "-profile" "/tmp/rust_mozprofilebqwvd4"
+1636750431226	Marionette	INFO	Listening on port 43377
+1636750431277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636750442385	Marionette	INFO	Stopped listening on port 43377

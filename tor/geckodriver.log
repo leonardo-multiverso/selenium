@@ -67,3 +67,12 @@ JavaScript error: https://maps.googleapis.com/maps-api-v3/api/js/46/12a/common.j
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1636669307823	Marionette	INFO	Stopped listening on port 43885
+1636742602972	geckodriver	INFO	Listening on 127.0.0.1:44321
+1636742602985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42085" "-no-remote" "-profile" "/tmp/rust_mozprofilejuUWax"
+1636742605634	Marionette	INFO	Listening on port 45587
+1636742605693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.whatsmyip.org/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636742652049	Marionette	INFO	Stopped listening on port 45587
